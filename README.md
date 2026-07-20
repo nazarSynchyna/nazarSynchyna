@@ -29,15 +29,6 @@ Learning Computer Science and building cool stuff with JavaScript & React. Passi
 
 ---
 
-### GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nazarSynchyna&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazarSynchyna&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
-
----
-
 ### Connect with Me
 
 <p align="left">
