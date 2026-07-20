@@ -2,7 +2,7 @@
 
 ### Front-End Developer & CS Student
 
-Learning Computer Science and building cool stuff with JavaScript & React. Passionate about web development and always learning something new!
+CS student at Lviv Polytechnic. I build modern websites, work with JS/React, and turn design ideas into functional code.
 
 ---
 
@@ -41,7 +41,7 @@ Learning Computer Science and building cool stuff with JavaScript & React. Passi
   <a href="https://instagram.com/synchynanazar" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:nsynchyna@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nsynchyna@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
