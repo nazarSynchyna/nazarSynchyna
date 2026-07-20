@@ -20,11 +20,6 @@ JavaScript | React | HTML5 | CSS3/SCSS | MySQL | Git
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nazarSynchyna&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazarSynchyna&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
-
-<p align="left">
   <a href="https://github.com/nazarSynchyna" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
