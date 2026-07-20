@@ -7,11 +7,10 @@ I have a strong interest in front-end development and UI design 💻 Currently f
 Always looking to improve my skills, solve coding challenges, and learn new technologies in web development.
 
 - 🔭 **I’m currently working on:** portfolio & web projects
-- 🌱 **I’m currently learning:** ReactJS & CS fundamentals
-- 💬 **Ask me about:** HTML, CSS/SCSS, JavaScript
+- 🌱 **I’m currently learning:** ReactJS
 - ⚡ **Fun fact:** 90% of my debugging process is just staring at the screen until the bug feels guilty and leaves.
 
-### 🛠 Tech Stack & Tools
+### Tech Stack & Tools
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -24,7 +23,7 @@ Always looking to improve my skills, solve coding challenges, and learn new tech
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### 📫 Connect with Me
+### Connect with Me
 
 <p align="left">
   <a href="https://github.com/nazarSynchyna" target="_blank">
