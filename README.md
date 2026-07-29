@@ -20,6 +20,7 @@ Focused on developing responsive, clean, and performance-driven web applications
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+## Weekly Coding Activity
 <!--START_SECTION:waka-->
 
 ```txt
