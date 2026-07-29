@@ -20,11 +20,8 @@ Focused on developing responsive, clean, and performance-driven web applications
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## Coding Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nazarSynchyna&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" height="180" />
-</p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## Contacts
 
