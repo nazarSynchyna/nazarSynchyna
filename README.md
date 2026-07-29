@@ -23,16 +23,12 @@ Focused on developing responsive, clean, and performance-driven web applications
 ## Coding Activity & Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nazarSynchyna&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Overview" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nazarSynchyna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Overview" height="175" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazarSynchyna&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazarSynchyna&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://wakatime.com/share/@nazarSynchyna/24e7fae2-8940-41bf-a37a-4ec6be3eb443.svg" alt="WakaTime Stats" height="175" />
 </p>
 
 ## Contacts
