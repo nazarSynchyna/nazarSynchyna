@@ -21,6 +21,17 @@ Focused on developing responsive, clean, and performance-driven web applications
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 21 July 2026 - To: 28 July 2026
+
+JavaScript   7 hrs 34 mins         ███████████████████████░░   92.57 %
+HTML         19 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
+JSON         15 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
+SCSS         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+```
+
 <!--END_SECTION:waka-->
 
 ## Contacts
