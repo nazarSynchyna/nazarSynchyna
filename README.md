@@ -20,15 +20,10 @@ Focused on developing responsive, clean, and performance-driven web applications
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## Coding Activity & Statistics
+## Coding Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nazarSynchyna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Overview" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazarSynchyna&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazarSynchyna&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nazarSynchyna&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" height="180" />
 </p>
 
 ## Contacts
