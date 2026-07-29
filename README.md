@@ -1,11 +1,9 @@
-# Nazar Synchyna
+# Hi, I`m Nazar Synchyna
 
 Computer Science Student at Lviv Polytechnic National University  
 Trainee / Junior Frontend Developer  
 
 Focused on developing responsive, clean, and performance-driven web applications using **JavaScript**, **React**, and modern CSS tooling. Actively improving algorithmic skills and core software engineering practices.
-
----
 
 ## Technical Stack & Tools
 
@@ -22,8 +20,6 @@ Focused on developing responsive, clean, and performance-driven web applications
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
-
 ## Coding Activity & Statistics
 
 <p align="center">
@@ -38,8 +34,6 @@ Focused on developing responsive, clean, and performance-driven web applications
 <p align="center">
   <img src="https://wakatime.com/share/@nazarSynchyna/24e7fae2-8940-41bf-a37a-4ec6be3eb443.svg" alt="WakaTime Stats" height="175" />
 </p>
-
----
 
 ## Contacts
 
