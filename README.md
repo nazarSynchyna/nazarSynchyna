@@ -28,13 +28,12 @@ Focused on developing responsive, clean, and performance-driven web applications
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 September 2026 - To: 09 September 2026
+From: 04 September 2026 - To: 11 September 2026
 
-JavaScript   2 hrs 48 mins   ███████████████████████░░   92.01 %
-SCSS         7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
-CSS          6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+JavaScript   3 hrs 6 mins    ███████████████████████▒░   92.99 %
+SCSS         13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
