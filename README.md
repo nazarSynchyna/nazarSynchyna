@@ -28,10 +28,11 @@ Focused on developing responsive, clean, and performance-driven web applications
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 September 2026 - To: 22 September 2026
+From: 16 September 2026 - To: 23 September 2026
 
-C++      2 hrs 4 mins    ████████████████████░░░░░   79.90 %
-Python   31 mins         █████░░░░░░░░░░░░░░░░░░░░   20.10 %
+C++      56 mins         ██████████████▒░░░░░░░░░░   57.69 %
+Python   39 mins         ██████████░░░░░░░░░░░░░░░   39.88 %
+Other    2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
 ```
 
 <!--END_SECTION:waka-->
