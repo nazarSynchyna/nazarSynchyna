@@ -28,12 +28,13 @@ Focused on developing responsive, clean, and performance-driven web applications
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 September 2026 - To: 06 October 2026
+From: 30 September 2026 - To: 07 October 2026
 
-Python   41 mins         ███████████████▓░░░░░░░░░   63.00 %
-Docker   17 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.61 %
-YAML     3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
-Text     2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
+JavaScript   1 hr 49 mins    ██████████████████░░░░░░░   72.35 %
+Python       36 mins         ██████░░░░░░░░░░░░░░░░░░░   24.40 %
+JSON         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+HTML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+PHP          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
