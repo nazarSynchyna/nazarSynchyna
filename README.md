@@ -1,7 +1,7 @@
 # Hi, I`m Nazar Synchyna
 
 Computer Science Student at Lviv Polytechnic National University  
-Trainee / Junior Frontend Developer  
+Frontend Developer  
 
 Focused on developing responsive, clean, and performance-driven web applications using **JavaScript**, **React**, and modern CSS tooling. Actively improving algorithmic skills and core software engineering practices.
 
