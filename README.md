@@ -28,7 +28,7 @@ Focused on developing responsive, clean, and performance-driven web applications
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 October 2026 - To: 09 October 2026
+From: 04 October 2026 - To: 11 October 2026
 
 JavaScript   3 hrs           ████████████████████▒░░░░   81.15 %
 Python       36 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.63 %
